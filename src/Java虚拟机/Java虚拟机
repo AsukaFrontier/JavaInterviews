@@ -1,14 +1,19 @@
 《深入理解Java虚拟机：JVM高级特性与最佳实践》
 
-1.Java基础
-Java技术体系，Java发展，Java虚拟机发展
+1.走近Java
+Java技术体系
+Java发展
+Java虚拟机发展
 
 2.自动内存管理机制
 Java内存区域，内存溢出异常
   运行时数据区域
+  HotSpot虚拟机
+  OutOfMemoryError异常
 垃圾收集器与内存分配策略
   判断对象死亡
   垃圾收集算法
+  HotSpot垃圾收集算法实现
   垃圾收集器
   内存分配与回收策略
 
