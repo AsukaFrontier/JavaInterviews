@@ -1,0 +1,9 @@
+HashMap与Hashtable区别
+线程安全性：
+  HashMap是非线程安全的，在多线程条件下容易导致死循环；
+  java.util.Hashtable类是线程安全的；
+  java.util.concurrent.ConcurrentHashMap是线程安全的；
+
+Hashtable类
+  Hashtable类提供的方法都有synchronized修饰符修饰；
+  保证了线程安全性，但是降低了执行效率；
