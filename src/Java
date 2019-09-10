@@ -7,8 +7,11 @@
     《Effective Java》
     《Java8实战》
     《阿里巴巴Java开发手册》
+  Java设计模式
+    《图解设计模式》
   Java并发
     《Java并发编程实战》
+    《图解Java多线程设计模式》
   Java虚拟机
     《深入理解Java虚拟机》
   Java Web
@@ -19,14 +22,17 @@
     《Java网络编程》
   算法
     《算法4th》
+  计算机网络
+    《网络是怎样连接的》
+    《图解TCP/IP》
+  数据库
+    《高性能MySQL》
+    《SQL基础教程》
+    《SQL进阶教程》
   计算机基础
     《算法4th》数据结构
     《计算机操作系统》
     《计算机网络》
-    《网络是怎样连接的》
-  数据库
-    《高性能MySQL》
-    《SQL基础教程》
 
 算法题解
   https://github.com/AsukaFrontier

@@ -1,3 +1,6 @@
+数据库基础概述，SQL（结构化查询语言），MySQL与InnoDB;
+
+数据库基础概述：
 1.事务
   满足ACID特性的一组操作，可以通过Commit提交一个事务，也可以使用Rollback进行回滚；
   ACID
@@ -29,4 +32,3 @@
     释放读锁之后，就可能被其他事务修改数据（该等级是SQL Server默认的隔离等级）；
   读未提交Read Uncommitted
     （最低的隔离等级）
-5.MySQL存储引擎
